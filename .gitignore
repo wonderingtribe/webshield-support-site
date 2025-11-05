@@ -140,3 +140,6 @@ vite.config.ts.timestamp-*
 .env
 node_modules/
 *.db
+.env
+node_modules/
+*.db
